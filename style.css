@@ -1,0 +1,53 @@
+.Blog {
+    font-family: monospace;
+    font-size:x-large;
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Cabeçalho {
+    font-family: monospace;
+    font-size: large;
+    max-width: 960px;
+    height: 192px;
+    margin: 0 auto;
+}
+
+.Apresentação {
+    text-align: center;
+}
+
+.Ap1 {
+    width: 384px;
+    height:   38px;
+    margin: 9px 48px;
+    float: left;
+    background-color: indigo;
+}
+
+.Topicos {
+    font-family: monospace;
+    font-size: large;
+    max-width: 960px;
+    max-height: 961px;
+    margin: 0 auto;
+}
+
+.Aqua {
+    text-align:justify;
+    width: 384px;
+    height: 432px;
+    margin: 24px 48px;
+    background-color: orange;
+    float: left
+}
+
+.Violeta {
+    text-align:justify;
+    width: 384px;
+    height: 432px;
+    margin: 24px 48px;
+    background-color:green;
+    float: left
+}
